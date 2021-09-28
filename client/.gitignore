@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/node_modules/@popperjs
+/node_modules/bootstrap
 
 # testing
 /coverage

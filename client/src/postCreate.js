@@ -1,11 +1,11 @@
 import React from 'react'
 
-function App() {
+const postCreate() => {
     return (
         <div>
-           Blog App 
+            
         </div>
     )
 }
 
-export default App
+export default postCreate
